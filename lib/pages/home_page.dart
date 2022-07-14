@@ -104,7 +104,7 @@ class _HomePageState extends State<HomePage> {
                           width: 50,
                           height: 50,
                           decoration: BoxDecoration(
-                              color: Colors.cyan,
+                              color: Color.fromARGB(221, 174, 83, 244),
                               borderRadius: BorderRadius.circular(100)),
                           child: Icon(
                             Icons.calendar_month_outlined,
