@@ -170,7 +170,7 @@ class _HomePageState extends State<HomePage> {
           color: Colors.transparent,
           elevation: 0,
           child: Padding(
-            padding: const EdgeInsets.all(15.0),
+            padding: const EdgeInsets.all(14.9),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
